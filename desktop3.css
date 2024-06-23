@@ -1,0 +1,244 @@
+.desktop3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop3-desktop3 {
+  width: 100%;
+  height: 3289px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(235, 244, 246, 1);
+}
+.desktop3-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 165px;
+  position: absolute;
+}
+.desktop3-text {
+  top: 49px;
+  left: 76px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text02 {
+  top: 49px;
+  left: 372px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text04 {
+  top: 49px;
+  left: 586px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text06 {
+  top: 49px;
+  left: 751px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-favorite {
+  top: 49px;
+  left: 1023px;
+  width: 68.29268646240234px;
+  height: 70px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop3-favorite1 {
+  top: 2.132399559020996px;
+  left: 5.691037178039551px;
+  width: 57px;
+  height: 48px;
+  position: absolute;
+}
+.desktop3-text08 {
+  top: 1493px;
+  left: 936px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Itim;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-rectangle6 {
+  top: 2937px;
+  left: 0px;
+  width: 1440px;
+  height: 312px;
+  position: absolute;
+}
+.desktop3-text12 {
+  top: 2989px;
+  left: 92px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-notificationsactive {
+  top: 41px;
+  left: 1129px;
+  width: 76.00000762939453px;
+  height: 70px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop3-notificationsactive1 {
+  top: 5.833329200744629px;
+  left: 9.500000953674316px;
+  width: 57px;
+  height: 58px;
+  position: absolute;
+}
+.desktop3-shoppingcart {
+  top: 41px;
+  left: 1243px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop3-shoppingcart1 {
+  top: 5.833333492279053px;
+  left: 3.718749523162842px;
+  width: 57px;
+  height: 58px;
+  position: absolute;
+}
+.desktop3-accountcircle {
+  top: 41px;
+  left: 1336px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop3-accountcircle1 {
+  top: 5.833333492279053px;
+  left: 5.8333330154418945px;
+  width: 58px;
+  height: 58px;
+  position: absolute;
+}
+.desktop3-rectangle7 {
+  top: 244px;
+  left: 211px;
+  width: 1017px;
+  height: 110px;
+  position: absolute;
+  border-radius: 45px;
+}
+.desktop3-text20 {
+  top: 275px;
+  left: 313px;
+  color: rgba(77, 77, 77, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Itim;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-search {
+  top: 275px;
+  left: 242px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop3-search1 {
+  top: 5.949999809265137px;
+  left: 5.999999523162842px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+
+a{
+  color:white
+}
